@@ -19,14 +19,14 @@
   },
   "homepage": "https://github.com/zep1994/Node_API_React_Frontend_MSU#readme",
   "devDependencies": {
-    "ejs": "^3.0.1",
-    "nodemon": "^2.0.2"
+    "ejs": "^3.1.10",
+    "nodemon": "^2.0.22"
   },
   "dependencies": {
-    "axios": "^0.19.1",
+    "axios": "^0.30.0",
     "cors": "^2.8.5",
-    "express": "^4.17.1",
-    "node-fetch": "^2.6.0",
-    "request": "^2.88.0"
+    "express": "^4.20.0",
+    "node-fetch": "^2.6.7",
+    "request": "^2.88.2"
   }
 }
